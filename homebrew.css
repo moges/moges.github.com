@@ -1,0 +1,31 @@
+/*
+Stylesheet Name: 404.css
+Description: Terminal reboot.
+Author: Girma Moges
+Author URI: http://www.moges.org
+Version: 0.1
+
+License: Attribution 3.0 Unported (CC BY 3.0)
+License URI: http://creativecommons.org/licenses/by/3.0/
+
+General comments (Terminal reboot).
+*/
+
+body {
+	background-color: #000;
+	color: transparent;
+}
+
+p {
+	margin: 0px;
+	padding: 0px;
+	color: #24ff00;
+	background: transparent;
+	font-family: 'Inconsolata', sans-serif;
+	font-size: 16px;
+	line-height: 18px;
+}
+
+#old p {
+	color: #999;
+}
