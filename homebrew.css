@@ -36,5 +36,5 @@ p {
 
 /* Mobile browsers only */
 @media only screen and (max-device-width: 480px) {      
-        p { -webkit-text-size-adjust:100% }               
+        p { -webkit-text-size-adjust:50% }               
 }
