@@ -24,8 +24,12 @@ p {
 	padding: 0px;
 	color: #24ff00;
 	background: transparent;
+	font-size: 16px;
+	line-height: 18px;
 }
 
 #old p {
 	color: #999;
+	font-size: 16px;
+	line-height: 18px;
 }
