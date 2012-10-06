@@ -14,6 +14,9 @@ General comments (Terminal reboot).
 body {
 	background-color: #000;
 	color: transparent;
+	font-family: 'Inconsolata', sans-serif;
+	font-size: 16px;
+	line-height: 18px;
 }
 
 p {
@@ -21,9 +24,6 @@ p {
 	padding: 0px;
 	color: #24ff00;
 	background: transparent;
-	font-family: 'Inconsolata', sans-serif;
-	font-size: 16px;
-	line-height: 18px;
 }
 
 #old p {
